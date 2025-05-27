@@ -1,4 +1,4 @@
-# P42 - Secure Communication App
+# Encrypted_chat - Secure Communication App
 
 <div align="center">
 
@@ -28,8 +28,8 @@ End-to-end encrypted messaging with RSA-2048 and AES-CBC
 
 ```bash
 # Clone & Setup
-git clone https://github.com/yourusername/p42.git
-cd p42
+git clone https://github.com/Sd-Shiivam/Encrypted_chat.git
+cd Encrypted_chat
 flutter pub get
 
 # Run
@@ -40,12 +40,12 @@ flutter run
 
 ```yaml
 dependencies:
-  pointycastle: ^3.9.1    # RSA/AES crypto
-  encrypt: ^5.0.1         # AES implementation
-  hive: ^2.2.3           # Encrypted storage
-  firebase_core: ^2.4.0  # Backend
+  pointycastle: ^3.9.1 # RSA/AES crypto
+  encrypt: ^5.0.1 # AES implementation
+  hive: ^2.2.3 # Encrypted storage
+  firebase_core: ^2.4.0 # Backend
   cloud_firestore: ^4.3.0 # Database
-  qr_flutter: ^4.0.0     # QR generation
+  qr_flutter: ^4.0.0 # QR generation
   mobile_scanner: ^6.0.10 # QR scanning
 ```
 
@@ -62,12 +62,10 @@ dependencies:
 
 ```bash
 # Setup
-flutter doctor
 flutter pub get
 
-# Code Generation
-flutter pub run build_runner build
-
+# Code run
+flutter run
 # Test
 flutter test
 ```
@@ -80,4 +78,4 @@ MIT License - See [LICENSE](LICENSE)
 
 <div align="center">
 Built with ❤️ by P42 Team
-</div> 
+</div>
