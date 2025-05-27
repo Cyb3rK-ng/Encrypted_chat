@@ -1,0 +1,4 @@
+#Tue May 27 23:02:00 IST 2025
+base.0=/home/cyberspace/Harddisk/Shiva/project_work/p42/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

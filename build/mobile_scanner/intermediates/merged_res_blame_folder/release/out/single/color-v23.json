@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "dev.steenbakker.mobile_scanner-merged_res-34:/color-v23/abc_tint_default.xml",
+        "source": "dev.steenbakker.mobile_scanner-appcompat-1.6.1-13:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "dev.steenbakker.mobile_scanner-merged_res-34:/color-v23/abc_tint_spinner.xml",
+        "source": "dev.steenbakker.mobile_scanner-appcompat-1.6.1-13:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "dev.steenbakker.mobile_scanner-merged_res-34:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "dev.steenbakker.mobile_scanner-appcompat-1.6.1-13:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "dev.steenbakker.mobile_scanner-merged_res-34:/color-v23/abc_tint_switch_track.xml",
+        "source": "dev.steenbakker.mobile_scanner-appcompat-1.6.1-13:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "dev.steenbakker.mobile_scanner-merged_res-34:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "dev.steenbakker.mobile_scanner-appcompat-1.6.1-13:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "dev.steenbakker.mobile_scanner-merged_res-34:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "dev.steenbakker.mobile_scanner-appcompat-1.6.1-13:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "dev.steenbakker.mobile_scanner-merged_res-34:/color-v23/abc_tint_edittext.xml",
+        "source": "dev.steenbakker.mobile_scanner-appcompat-1.6.1-13:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "dev.steenbakker.mobile_scanner-merged_res-34:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "dev.steenbakker.mobile_scanner-appcompat-1.6.1-13:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "dev.steenbakker.mobile_scanner-merged_res-34:/color-v23/abc_color_highlight_material.xml",
+        "source": "dev.steenbakker.mobile_scanner-appcompat-1.6.1-13:/color-v23/abc_color_highlight_material.xml"
+    }
+]
