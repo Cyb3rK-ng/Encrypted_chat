@@ -77,5 +77,5 @@ MIT License - See [LICENSE](LICENSE)
 ---
 
 <div align="center">
-Built with ❤️ by P42 Team
+Built with ❤️ by Cyb3rK-ng Team
 </div>
